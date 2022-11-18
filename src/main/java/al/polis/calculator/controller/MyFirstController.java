@@ -3,7 +3,6 @@ package al.polis.calculator.controller;
 import al.polis.calculator.dto.Sum1ReqDto;
 import al.polis.calculator.dto.Sum2RespDto1;
 import al.polis.calculator.service.SumService;
-import al.polis.calculator.service.impl.SumServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
